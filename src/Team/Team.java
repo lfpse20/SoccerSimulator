@@ -1,4 +1,6 @@
-import Domain.Player;
+package Team;
+
+import Player.Player;
 
 import java.util.ArrayList;
 
